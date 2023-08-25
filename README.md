@@ -1,4 +1,4 @@
-# Analisis tecnico acciones Yahoo_Finance (en desarrollo)
+# Analisis tecnico acciones Yahoo Finance (en desarrollo)
 Análisis Técnico de Acciones de Yahoo Finance
 
 # Descripción
