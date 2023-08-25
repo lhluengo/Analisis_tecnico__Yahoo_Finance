@@ -9,7 +9,7 @@ Este proyecto se encuentra en desarrollo, es una idea sencilla y simple, permite
 
 El análisis técnico es una herramienta clave para muchos inversores y traders en los mercados financieros. Este proyecto proporciona una forma rápida y sencilla de visualizar indicadores técnicos comunes como RSI, MACD, Promedios Móviles y Pivot Points para diferentes acciones. Estos indicadores pueden ayudar a tomar decisiones informadas sobre la compra y venta de acciones.
 
-# ¿Que indicadores técnico calcula?
+# ¿Que indicadores técnicos calcula?
 
 Utiliza los últimos 2 años de precios al momento de ejecutar y determina los siguientes indicadores:
 * RSI (Relative Strength Index): Mide la velocidad y el cambio de los movimientos de precios.
