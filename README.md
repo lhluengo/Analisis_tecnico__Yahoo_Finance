@@ -16,8 +16,9 @@ Utiliza los últimos 2 años de precios al momento de ejecutar y determina los s
 * MACD (Moving Average Convergence Divergence): Indica tendencias en el mercado.
 * SMA (Simple Moving Averages): Promedios móviles para 5 y 10 días.
 * Pivot Points: Son indicadores que ayudan a determinar niveles de resistencia y soporte, relevante para determina los punto de entrada y salida de operaciones. Determina el precio donde al acercarse, la accion tiende a cambiar en sentido de la tendencia.
-Genera 3 graficos:
-Precio de cierre, promedios móviles y Pivot Points.
-RSI.
-MACD.
+* 
+## Genera 3 graficos:
+* Precio de cierre, promedios móviles y Pivot Points.
+* RSI.
+* MACD.
 
