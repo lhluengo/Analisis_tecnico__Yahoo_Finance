@@ -1,24 +1,24 @@
-# Analisis tecnico acciones Yahoo Finance (en desarrollo)
-Análisis Técnico de Acciones de Yahoo Finance
+# Análisis Técnico de Acciones en Yahoo Finance
 
 # Descripción
 
-Este proyecto se encuentra en desarrollo, es una idea sencilla y simple, permite a seleccionar acciones de una lista y visualizar un gráfico con varios indicadores técnicos basados en datos históricos de Yahoo Finance.
+Este proyecto, que se encuentra en desarrollo, es una propuesta sencilla que permite seleccionar acciones de una lista y visualizar un gráfico con distintos indicadores técnicos basados en datos históricos de Yahoo Finance.
 
 # ¿Por qué es útil este proyecto?
 
-El análisis técnico es una herramienta clave para muchos inversores y traders en los mercados financieros. Este proyecto proporciona una forma rápida y sencilla de visualizar indicadores técnicos comunes como RSI, MACD, Promedios Móviles y Pivot Points para diferentes acciones. Estos indicadores pueden ayudar a tomar decisiones informadas sobre la compra y venta de acciones.
+El análisis técnico es una herramienta esencial para muchos inversores y traders en los mercados financieros. Este proyecto ofrece una manera rápida y práctica de visualizar indicadores técnicos habituales como RSI, MACD, Promedios Móviles y Pivot Points para diferentes acciones. Estos indicadores pueden asistir en la toma de decisiones informadas respecto a la compra y venta de acciones.
 
-# ¿Que indicadores técnicos calcula?
+# ¿Qué indicadores técnicos calcula?
 
-Utiliza los últimos 2 años de precios al momento de ejecutar y determina los siguientes indicadores:
-* RSI (Relative Strength Index): Mide la velocidad y el cambio de los movimientos de precios.
-* MACD (Moving Average Convergence Divergence): Indica tendencias en el mercado.
-* SMA (Simple Moving Averages): Promedios móviles para 5 y 10 días.
-* Pivot Points: Son indicadores que ayudan a determinar niveles de resistencia y soporte, relevante para determina los punto de entrada y salida de operaciones. Determina el precio donde al acercarse, la accion tiende a cambiar en sentido de la tendencia.
+Utiliza los datos de los últimos 2 años hasta el momento de ejecución y calcula los siguientes indicadores:
+
+* RSI (Índice de Fuerza Relativa): Mide la velocidad y el cambio de los movimientos de precios.
+* MACD (Convergencia/Divergencia del Promedio Móvil): Señala tendencias en el mercado.
+* SMA (Promedios Móviles Simples): Promedios móviles para ventanas de 5 y 10 días.
+* Pivot Points: Indicadores que ayudan a determinar niveles de resistencia y soporte. Son relevantes para decidir puntos de entrada y salida de operaciones. Estos puntos indican el precio al cual, al acercarse, la acción tiende a cambiar la dirección de su tendencia.
   
-## Genera 3 graficos:
-* Precio de cierre, promedios móviles y Pivot Points.
-* RSI.
-* MACD.
+## Genera 3 gráficos:
+Precio de cierre, promedios móviles y Pivot Points.
+RSI.
+MACD.
 
