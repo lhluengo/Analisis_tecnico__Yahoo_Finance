@@ -18,7 +18,7 @@ Utiliza los datos de los últimos 2 años hasta el momento de ejecución y calcu
 * Pivot Points: Indicadores que ayudan a determinar niveles de resistencia y soporte. Son relevantes para decidir puntos de entrada y salida de operaciones. Estos puntos indican el precio al cual, al acercarse, la acción tiende a cambiar la dirección de su tendencia.
   
 ## Genera 3 gráficos:
-Precio de cierre, promedios móviles y Pivot Points.
-RSI.
-MACD.
+* Precio de cierre, promedios móviles y Pivot Points.
+* RSI.
+* MACD.
 
